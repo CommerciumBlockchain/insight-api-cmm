@@ -1,0 +1,37 @@
+[
+ {
+    "poolName": "CoinBlockers",
+    "url": "https://cmm.coinblockers.com",
+    "searchStrings": [
+      "coinblockers.com - https://coinblockers.com"
+    ]
+  },
+  {
+    "poolName": "Vpool",
+    "url": "https://vpool.io/",
+    "searchStrings": [
+      "vpool"
+    ]
+  },
+  {
+    "poolName": "Miningspeed",
+    "url": "https://commercium.miningspeed.com/",
+    "searchStrings": [
+      "miningspeed"
+    ]
+  },
+  {
+    "poolName": "DigitalMiningExperts",
+    "url": "http://pool.digitalminingexperts.com/",
+    "searchStrings": [
+      "digitalminingexperts"
+    ]
+  },
+  {
+    "poolName":"BTCC Pool",
+    "url":"https://pool.btcc.com/",
+    "searchStrings":[
+      "/BTCC/"
+    ]
+  }
+]
